@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <title>Workspace Ilya Rudyak </title>
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+
+    <main>
+      <a href="mailto:ilya.rudziak@gmail.com">
+        <img src="img/batman.png" width="300" height="250">
+      </a>
+
+      <h1>Да это же сайт визитка!</h1>
+
+      <p>
+        <a href="mailto:ilya.rudziak@gmail.com"> ilya.rudziak@gmail.com </a>
+      </p>
+    </main>
+
+  </body>
+</html>
